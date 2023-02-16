@@ -2,11 +2,11 @@
 
 ## The task 📈
 
-Delio engineering have been tasked with checking the current price of APPL and MSFT shares and comparing them to the previous day's closing price.
+Delio engineering have been tasked with checking the current price of AAPL and MSFT shares and comparing them to the previous day's closing price.
 
 ## Requirements 🗃️
 
-Your job is to create a web application that uses the Finnhub API (https://finnhub.io/docs/api/quote) to compare the current price of 10 APPL and 10 MSFT shares with their previous day's closing price. 
+Your job is to create a web application that uses the Finnhub API (https://finnhub.io/docs/api/quote) to compare the current price of 10 AAPL and 10 MSFT shares with their previous day's closing price. 
 
 To complete this task, you'll need to:
 

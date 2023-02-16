@@ -11,7 +11,7 @@ Your job is to create a web application that uses the Finnhub API (https://finnh
 To complete this task, you'll need to:
 
 * Create an API web application with PHP 8.1
-* Retrieve share value of MSFT and APPL shares from finnhub
+* Retrieve share value of MSFT and AAPL shares from finnhub
 * Store share values in a database
 * Read the values from the database and run profit & loss calculation on both MSFT & APPL shares
 * Return profit & loss values via a rest endpoint
@@ -22,6 +22,7 @@ To complete this task, you'll need to:
 * Use of Laravel
 * Mock testing of third-party API calls
 * Use of modern PHP typings
+* Utilize the IoC container
 
 ## How to submit 🔗
 

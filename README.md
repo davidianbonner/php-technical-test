@@ -13,7 +13,7 @@ To complete this task, you'll need to:
 * Create an API web application with PHP 8.1
 * Retrieve share value of MSFT and AAPL shares from finnhub
 * Store share values in a database
-* Read the values from the database and run profit & loss calculation on both MSFT & APPL shares
+* Read the values from the database and run profit & loss calculation on both MSFT & AAPL shares
 * Return profit & loss values via a rest endpoint
 * Add tests
 
